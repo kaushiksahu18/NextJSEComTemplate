@@ -23,4 +23,3 @@ While NextMerce Pro features advanced functionalities, seamless integration, and
 #### [🚀 Live Demo](https://demo.nextmerce.com/)
 
 #### [🌐 Visit Website](https://nextmerce.com/)
-# NextJSEComTemplate
